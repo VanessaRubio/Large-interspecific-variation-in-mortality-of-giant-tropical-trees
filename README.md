@@ -1,4 +1,4 @@
-<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/b5f2d1d1-de0f-488e-adbe-c7a1b441752d" /># Large-interspecific-variation-in-mortality-of-giant-tropical-trees
+# Large-interspecific-variation-in-mortality-of-giant-tropical-trees
 
 Code1.R - Estimates mortality rates of giant trees, and compares them against predictors
 Produces: 
